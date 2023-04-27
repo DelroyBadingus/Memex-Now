@@ -14,5 +14,9 @@ Ciphers are characters used in encoding to turn [[Plain - Text]] into [[Encrypte
 [[Introduction - A Revolutionary Cipher]]
 - - - 
 ### Related Links
-
-
+[[Encoding]]
+[[decoding]]
+[[Alan Turing]]
+[[Plain - Text]]
+[[Bombe]]
+[[Evolution of Computers]]

@@ -7,13 +7,16 @@ project: Memex
 tags:: #links 
 projects:: #concepts 
 
-The telephone was an invention created by Alexander Graham Bell. This innovative machine was able communicate with people over long distances. The telephone's creation, helped by Bell's Partner, Thomas Watson, eventually lead to one of the first telephone companies, AT&T.
+Hypertext was an innovative function that was originally created by Ted Nelson. Tim Berners Lee took the concept and idea of hypertext, and further reinforced its ability. As for what Hypertext does, is that it provides a one way link from one source to another. 
+
 
 ---
 ### Citational Information
-[[Visions of Telephony - MacDougall]]
+[[Eric's Memex]]
+[[Sophie's Memex]]
+[[Tim Berners Lee]]
 
 - - - 
 ### Related Links
-
+[[Evolution of Computers]]
 

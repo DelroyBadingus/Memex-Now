@@ -11,9 +11,13 @@ The Bulletin Board System was an early innovation on Web 1.0. The board would al
 
 ---
 ### Citational Information
-[[Visions of Telephony - MacDougall]]
-
+[[BBS (Bulletin Board System)]]
+[[Sophie's Memex]]
+[[The ARPANET after twenty years]]
 - - - 
 ### Related Links
-
-
+[[Arpanet (Advanced Research Projects Agency Network)]]
+[[IBM]]
+[[Evolution of Computers]]
+[[How the Page Matters]]
+[[Hypertext]]

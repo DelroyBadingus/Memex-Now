@@ -18,3 +18,6 @@ Not to be confused with a bomb or explosive, the bombe was a machine used and cr
 [[Encoding]]
 [[Colossus]]
 [[Alan Turing]]
+[[Ciphers]]
+[[decoding]]
+[[Evolution of Computers]]

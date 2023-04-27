@@ -11,9 +11,9 @@ War Games is a 1983 film starring Matthew Broderick who plays a high school stud
 
 ---
 ### Citational Information
-[[Visions of Telephony - MacDougall]]
+
 
 - - - 
 ### Related Links
-
-
+[[Evolution of Computers]]
+[[Alan Turing]]

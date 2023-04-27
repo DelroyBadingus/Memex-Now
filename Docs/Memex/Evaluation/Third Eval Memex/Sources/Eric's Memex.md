@@ -1,10 +1,7 @@
 tags:: #Alanturing #bombe #decoding #biography
-project:: #sources
-https://glng3r.github.io/memex/
-
-
+project:: #sources 
 ### Reference 
-Raikar, S. 2023. _Bombe | Code Breaking, History, Design, & Facts | Britannica_. 7 March 2023. Available at https://www.britannica.com/topic/Bombe [Last accessed 10 March 2023].
+Desrosiers, Eric. n.d. _Eric Desrosiers Memex_. Available at https://glng3r.github.io/memex/ [Last accessed 26 April 2023].
 
 ---
 
@@ -14,7 +11,6 @@ This article is about british matematician and logician Alan Turing who worked i
 --- 
 
 ### Links
-[[Bombe]]
-[[Alan Turing]]
+
 
 

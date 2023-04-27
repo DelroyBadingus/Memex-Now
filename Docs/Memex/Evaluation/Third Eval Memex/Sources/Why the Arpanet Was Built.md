@@ -1,7 +1,6 @@
 Lukasik, S. 2011 Why the Arpanet Was Built. _IEEE Annals of the History of Computing_ 33(3): 4–21. DOI: [https://doi.org/10.1109/MAHC.2010.11](https://doi.org/10.1109/MAHC.2010.11).
 
 ### Reference 
-Raikar, S. 2023. _Bombe | Code Breaking, History, Design, & Facts | Britannica_. 7 March 2023. Available at https://www.britannica.com/topic/Bombe [Last accessed 10 March 2023].
 
 ---
 

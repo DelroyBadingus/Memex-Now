@@ -1,7 +1,7 @@
-Denning, PJ. 1991 The ARPANET after twenty years. In:. Denning, PJ (ed.). _Computers under attack: intruders, worms, and viruses_. New York, NY, USA: ACM. pp. 11–19. DOI: [https://doi.org/10.1145/102616.102618](https://doi.org/10.1145/102616.102618).
+Denning, PJ. 1991 The ARPANET after twenty years. In:. _Computers under attack: intruders, worms, and viruses_. New York, NY, USA: Association for Computing Machinery. pp. 11–19.
 
 ### Reference 
-Raikar, S. 2023. _Bombe | Code Breaking, History, Design, & Facts | Britannica_. 7 March 2023. Available at https://www.britannica.com/topic/Bombe [Last accessed 10 March 2023].
+
 
 ---
 

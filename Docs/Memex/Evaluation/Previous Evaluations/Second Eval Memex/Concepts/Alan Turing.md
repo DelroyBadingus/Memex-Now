@@ -12,4 +12,6 @@ Alan Turing was a british matematician who worked as a cryptanalysist in World W
 [[Colossus]]
 [[Encoding]]
 [[Encrypted message]]
-
+[[Ciphers]]
+[[Plain - Text]]
+[[Evolution of Computers]]
